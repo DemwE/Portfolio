@@ -1,0 +1,24 @@
+@media (min-width:1700px) {
+  .name {
+    font-size: 10vh;
+  }
+}
+
+@media (min-width:1700px) {
+  .subname {
+    font-size: 4vh;
+  }
+}
+
+@media (max-width:1700px) {
+  .name {
+    font-size: 10vw;
+  }
+}
+
+@media (max-width:1700px) {
+  .subname {
+    font-size: 4vw;
+  }
+}
+
